@@ -1,0 +1,14 @@
+/home/remnux/cases/TSA-001/sample/extracted-L2/Sebastian  Hall.lnk: OK
+/home/remnux/cases/TSA-001/sample/extracted-L2/ b.jpg: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3627921
+Engine version: 1.4.4
+Scanned directories: 1
+Scanned files: 2
+Infected files: 0
+Data scanned: 0.04 MB
+Data read: 0.04 MB (ratio 1.00:1)
+Time: 3.762 sec (0 m 3 s)
+Start Date: 2026:07:20 02:08:08
+End Date:   2026:07:20 02:08:11

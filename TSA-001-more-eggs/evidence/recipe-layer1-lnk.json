@@ -1,0 +1,604 @@
+[
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!peric!"
+      },
+      "s",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!tartarly!"
+      },
+      "e",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!unvoyagingu!"
+      },
+      "al",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!jugs!"
+      },
+      "e",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!colberte!"
+      },
+      "c",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!entiretyar!"
+      },
+      "u",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!trioecio!"
+      },
+      "n",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!mammo!"
+      },
+      "x",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!caustici!"
+      },
+      "C",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!unambushkar!"
+      },
+      "s",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!cli!"
+      },
+      "=",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!rear!"
+      },
+      "l",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!zonat!"
+      },
+      "f",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!clie!"
+      },
+      ".",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!stephani!"
+      },
+      "%windir%",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!balearic!"
+      },
+      "O",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!dynamit!"
+      },
+      "o",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!sexagesima!"
+      },
+      "4",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!acetylate!"
+      },
+      "d",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!attunement!"
+      },
+      "[",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!harmoniph!"
+      },
+      "a",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!arrosio!"
+      },
+      "1",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!engl!"
+      },
+      "w",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!lurching!"
+      },
+      "\\",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!adsorb!"
+      },
+      "t",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!gonystyl!"
+      },
+      "g",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!videru!"
+      },
+      "7",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!preworthil!"
+      },
+      "m",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!scenedesmus!"
+      },
+      "5",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!breviradia!"
+      },
+      "B",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!filth!"
+      },
+      "r",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!payload!"
+      },
+      "$",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!beer!"
+      },
+      "X",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!sulphoxismu!"
+      },
+      "y",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!duf!"
+      },
+      "_",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!hconv!"
+      },
+      "%temp%",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!tetrapods!"
+      },
+      "v",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!mackere!"
+      },
+      "i",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!fsie!"
+      },
+      "2",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!expectan!"
+      },
+      "-",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!loon!"
+      },
+      "p",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!mora!"
+      },
+      " ",
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "op": "Find / Replace",
+    "args": [
+      {
+        "option": "Simple string",
+        "string": "!archaeo!"
+      },
+      "]",
+      true,
+      false,
+      true,
+      false
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+Scanning /home/remnux/cases/TSA-001/sample/a525e5d42676db2bf96741789c99f5cf081da81f33522622d57af9619a828e2f.zip
+/home/remnux/cases/TSA-001/sample/a525e5d42676db2bf96741789c99f5cf081da81f33522622d57af9619a828e2f.zip: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3627921
+Engine version: 1.4.4
+Scanned directories: 0
+Scanned files: 1
+Infected files: 0
+Data scanned: 0.04 MB
+Data read: 0.04 MB (ratio 1.00:1)
+Time: 3.804 sec (0 m 3 s)
+Start Date: 2026:07:20 00:59:12
+End Date:   2026:07:20 00:59:16

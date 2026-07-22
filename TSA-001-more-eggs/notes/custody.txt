@@ -1,0 +1,53 @@
+TSA-001 CHAIN OF CUSTODY
+
+Captures the chain-of-custody elements described in NIST SP 800-86 and the
+handling principles of ISO/IEC 27037. Self-authored lab record, not an
+implementation of a published form.
+
+Case: TSA-001
+Opened: 2026-07-19
+Updated: 2026-07-20
+
+ACQUISITION
+
+Source: MalwareBazaar (abuse.ch)
+URL: hxxps[://]bazaar[.]abuse[.]ch/sample/a525e5d42676db2bf96741789c99f5cf081da81f33522622d57af9619a828e2f
+Acquired: 2026-07-19 on MintConfig
+Form: AES-encrypted ZIP wrapper, repository password "infected"
+
+L0 wrapper  SHA256 d8f9943034805cbb7c495eb08f72c49fc622c9eb49171090ba77a9a5ada61bdf  38642 bytes
+L1 archive  SHA256 a525e5d42676db2bf96741789c99f5cf081da81f33522622d57af9619a828e2f  38416 bytes
+L2a b.jpg   SHA256 46f587b4375bb3295a5361ee0a0ee0da3b91173852d8aa4c156d0706f55536ee  36690 bytes
+L2b LNK     SHA256 4e18f606f7a31ffbea632ceaffad77689f810a3cde26d2a913d4530eaae5c5d1  10179 bytes
+
+L1, L2a, L2b hashes derived on REMnux after extraction. L0 verified against the source repository.
+
+TRANSFER
+
+Path: Mint -> Jumpbox -> REMnux
+Inbound only. SHA256 compared at each hop, all OK. No sample bytes left VLAN40.
+
+STORAGE
+
+Sample bytes reside on REMnux only.
+Mint and Jumpbox audited and cleared of sample bytes on 2026-07-19.
+
+CONTAINMENT
+
+VLAN isolated segment, egress blocked at pfSense and host firewall.
+Analysis was static only. The sample was never executed and no connection to
+campaign infrastructure was attempted.
+
+RETENTION
+
+Retain until the YARA rules are validated against the sample. Destroying it
+before then would make the detection content unverifiable. On completion, either
+destroy the sample and record the date and method below, or record a renewed decision.
+
+ACTIONS
+
+2026-07-19  Acquired on Mint. Hash verified against source.
+2026-07-19  Transferred to REMnux via Jumpbox. Hashes verified at each hop.
+2026-07-19  Mint and Jumpbox cleared of sample bytes.
+2026-07-19  Static analysis begun.
+2026-07-20  Static analysis concluded. Retention decision recorded.

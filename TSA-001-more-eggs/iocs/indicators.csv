@@ -1,0 +1,20 @@
+type,value,context,role,to_ids,confidence,source
+sha256,4e18f606f7a31ffbea632ceaffad77689f810a3cde26d2a913d4530eaae5c5d1,LNK dropper 10179 bytes primary artifact,dropper,1,high,TSA-001 static analysis
+sha256,a525e5d42676db2bf96741789c99f5cf081da81f33522622d57af9619a828e2f,Delivery archive 38416 bytes,archive,1,high,TSA-001 static analysis
+sha1,ffc60e5cf1dde51ff49ae7bf465dea0073dac2c0,Delivery archive legacy hash,archive,0,high,TSA-001 static analysis
+md5,980a2ffaaf0f8d3920aab6c0a8aaa800,Delivery archive legacy hash,archive,0,high,TSA-001 static analysis
+tlsh,T15303F1ED589447FEFF95C47B3AA8016870C2C6ABA013E8E62598935CE3D77568DCC00D,Delivery archive fuzzy hash for sibling build comparison,archive,0,high,TSA-001 static analysis
+ssdeep,768:Oy+f4loOndRL9vrCrFwezj+IPQTf7oX8IT+Q4xDIKQKYvpn+2:Z+SnhCGerQToDT+7x9wlj,Delivery archive fuzzy hash for sibling build comparison,archive,0,high,TSA-001 static analysis
+sha256,46f587b4375bb3295a5361ee0a0ee0da3b91173852d8aa4c156d0706f55536ee,Inert JPEG decoy filler 36690 bytes no execution role,decoy,0,high,TSA-001 static analysis
+domain,wff.sehall.com,Scriptlet drop host attacker subdomain on abused parent domain,c2-drop,1,high,TSA-001 static analysis
+domain,wfshtl.com,Scriptlet drop host on sibling sample identical URI path,c2-drop,1,moderate,denwp parallel analysis
+domain,sehall.com,Abused parent domain registered since 2015 DO NOT BLOCK,infrastructure,0,high,TSA-001 static analysis
+ip-dst,23.254.201.247,Hosting address of parent domain shared commercial hosting DO NOT BLOCK,infrastructure,0,high,TSA-001 static analysis
+url,http://wff.sehall.com/abf2iawq,Scriptlet retrieval URL plain HTTP,c2-drop,1,high,TSA-001 static analysis
+url,http://wfshtl.com/abf2iawq,Scriptlet retrieval URL on sibling sample,c2-drop,1,moderate,denwp parallel analysis
+uri,/abf2iawq,URI path constant across both observed drop hosts,c2-drop,1,high,TSA-001 static analysis
+filename,ieuinit.inf,Dropped configuration file in user temp directory,host-artifact,1,high,TSA-001 static analysis
+filename,ie4uinit.exe,Signed system binary relocated to user temp directory,host-artifact,0,high,TSA-001 static analysis
+filename,Sebastian  Hall.lnk,LNK dropper filename double space deliberate,dropper,0,high,TSA-001 static analysis
+filename,Sebastian Hall.zip,Delivery archive filename,archive,0,high,TSA-001 static analysis
+guid,1EDF70A0-137A-11EF-A4FB-00155DA53E0D,LNK droid file identifier builder host correlation only,builder-artifact,0,moderate,TSA-001 static analysis
